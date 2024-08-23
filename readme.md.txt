@@ -1,11 +1,10 @@
-﻿# Lern-Periode 5
+﻿# Lern-Periode 1
 
-23.4 bis 25.6.2024
+23.4 bis 20.8.2024
 
 ## Grob-Planung
 
-1. Wo stehen Sie mit Ihren Noten? In welchen Modulen waren Sie besonders stark; in welchen sind die ungenügend? Welche davon sind besonders wichtig?
-4. Was wäre ein geeignetes Projekt für diese LP5?
+Ich möchte einen Kalender programmieren. In diesem Kalender trage ich meine Hausaufgaben und Termine ein. Der Kalender wird dann eine Meldung schicken  mit einer Liste die alle Aufgaben für den nächsten Tag anzeigt.
 
 ## 23.4.2024
 
@@ -13,9 +12,10 @@
 
 ## 30.4.2024
 
-- [ ] Erstes Arbeitspaket
-- [ ] ...
-- [ ] Viertes AP
+- [ ] Recherche wie man einen Kalender Programmiert/ mit welchem Programm?
+- [ ] Ein Kalenderjahr eintragen, so das die Daten und Wochentage zu diesem Jahr passen.
+- [ ] Hersausfinden wie man das Design eines Kalenders programmiern kann.
+- [ ] Die Eingabe für Hausaufgaben und Termine machen.
 
 ✍️ Heute habe ich... (50-100 Wörter)
 
