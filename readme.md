@@ -24,10 +24,10 @@ Heute habe ich recherchiert wie man ein Kalender programmiert und habe dazu eine
 
 ## 06.09.2024
 
--[ ] Alle Prüfungsdaten einschreiben
--[ ] Prüfungsdaten mit Console.WriteLine wieder ausgeben lassen
--[ ] Wochentage zu den Daten hinzufügen
--[ ] Progammieren das man den Monat eingibt und nur die Prüfungen in diesem Monat werden angezeigt.
+- [ ] Alle Prüfungsdaten einschreiben
+- [ ] Prüfungsdaten mit Console.WriteLine wieder ausgeben lassen
+- [ ] Wochentage zu den Daten hinzufügen
+- [ ] Progammieren das man den Monat eingibt und nur die Prüfungen in diesem Monat werden angezeigt.
 
 
 
