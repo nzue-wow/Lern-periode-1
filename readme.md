@@ -38,10 +38,10 @@ Heute habe ich recherchiert wie man ein Kalender programmiert und habe dazu eine
  ## 13.09.2024
 
 
- -[ ] Das Prinzip if (dateB < dateA && dateA < dateC) bei Prüfungsdaten ausprobieren
- -[ ] Das Layout übersichtlicher machen
- -[ ] Das Programm nach dem neuen gelernten der Woche verbessern.
- -[ ] -
+ - [ ] Das Prinzip if (dateB < dateA && dateA < dateC) bei Prüfungsdaten ausprobieren
+ - [ ] Das Layout übersichtlicher machen
+ - [ ] Das Programm nach dem neuen gelernten der Woche verbessern.
+ - [ ] -
 
  
 
