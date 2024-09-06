@@ -24,10 +24,24 @@ Heute habe ich recherchiert wie man ein Kalender programmiert und habe dazu eine
 
 ## 06.09.2024
 
-- [ ] Alle Prüfungsdaten einschreiben
-- [ ] Prüfungsdaten mit Console.WriteLine wieder ausgeben lassen
-- [ ] Wochentage zu den Daten hinzufügen
+- [x] Alle Prüfungsdaten einschreiben
+- [x] Prüfungsdaten mit Console.WriteLine wieder ausgeben lassen
+- [x] Wochentage zu den Daten hinzufügen
 - [ ] Progammieren das man den Monat eingibt und nur die Prüfungen in diesem Monat werden angezeigt.
 
 
+ Heute habe ich...
+ Ich habe alle meine Prüfungsdaten von den nächsten paar Wochen eingetragen. Dann habe ich programmiert so dass der Tag das Datum und die Zeit dann ausgegeben wird. Danach war ich sehr lange dran herauszufinden wie man den Monat eingibt und nur die Prüfungen ausgibt die in diesem Monat sind. Ich habe ein paar sachen gefunden die ich aber noch gar nicht verstehe. Am schluss habe ich noch mit Herr Colic geredet und ich kann das erstmals nach diesem Prinzip machen: if (dateB < dateA && dateA < dateC).
+
+
+
+ ## 13.09.2024
+
+
+ -[ ] Das Prinzip if (dateB < dateA && dateA < dateC) bei Prüfungsdaten ausprobieren
+ -[ ] Das Layout übersichtlicher machen
+ -[ ] Das Programm nach dem neuen gelernten der Woche verbessern.
+ -[ ] -
+
+ 
 
