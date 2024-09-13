@@ -1,0 +1,14 @@
+C:\Users\nenaz\source\repos\Lernatelier\mein.Prüfungskalender\mein.Prüfungskalender\obj\Debug\net8.0\mein.Prüfungskalender.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nenaz\source\repos\Lernatelier\mein.Prüfungskalender\mein.Prüfungskalender\obj\Debug\net8.0\mein.Prüfungskalender.AssemblyInfoInputs.cache
+C:\Users\nenaz\source\repos\Lernatelier\mein.Prüfungskalender\mein.Prüfungskalender\obj\Debug\net8.0\mein.Prüfungskalender.AssemblyInfo.cs
+C:\Users\nenaz\source\repos\Lernatelier\mein.Prüfungskalender\mein.Prüfungskalender\obj\Debug\net8.0\mein.Prüfungskalender.csproj.CoreCompileInputs.cache
+C:\Users\nenaz\source\repos\Lernatelier\mein.Prüfungskalender\mein.Prüfungskalender\bin\Debug\net8.0\mein.Prüfungskalender.exe
+C:\Users\nenaz\source\repos\Lernatelier\mein.Prüfungskalender\mein.Prüfungskalender\bin\Debug\net8.0\mein.Prüfungskalender.deps.json
+C:\Users\nenaz\source\repos\Lernatelier\mein.Prüfungskalender\mein.Prüfungskalender\bin\Debug\net8.0\mein.Prüfungskalender.runtimeconfig.json
+C:\Users\nenaz\source\repos\Lernatelier\mein.Prüfungskalender\mein.Prüfungskalender\bin\Debug\net8.0\mein.Prüfungskalender.dll
+C:\Users\nenaz\source\repos\Lernatelier\mein.Prüfungskalender\mein.Prüfungskalender\bin\Debug\net8.0\mein.Prüfungskalender.pdb
+C:\Users\nenaz\source\repos\Lernatelier\mein.Prüfungskalender\mein.Prüfungskalender\obj\Debug\net8.0\mein.Prüfungskalender.dll
+C:\Users\nenaz\source\repos\Lernatelier\mein.Prüfungskalender\mein.Prüfungskalender\obj\Debug\net8.0\refint\mein.Prüfungskalender.dll
+C:\Users\nenaz\source\repos\Lernatelier\mein.Prüfungskalender\mein.Prüfungskalender\obj\Debug\net8.0\mein.Prüfungskalender.pdb
+C:\Users\nenaz\source\repos\Lernatelier\mein.Prüfungskalender\mein.Prüfungskalender\obj\Debug\net8.0\mein.Prüfungskalender.genruntimeconfig.cache
+C:\Users\nenaz\source\repos\Lernatelier\mein.Prüfungskalender\mein.Prüfungskalender\obj\Debug\net8.0\ref\mein.Prüfungskalender.dll
