@@ -38,10 +38,19 @@ Heute habe ich recherchiert wie man ein Kalender programmiert und habe dazu eine
  ## 13.09.2024
 
 
- - [ ] Das Prinzip if (dateB < dateA && dateA < dateC) bei Prüfungsdaten ausprobieren
+ - [x] Das Prinzip if (dateB < dateA && dateA < dateC) bei Prüfungsdaten ausprobieren
  - [ ] Das Layout übersichtlicher machen
- - [ ] Das Programm nach dem neuen gelernten der Woche verbessern.
+ - [x] Das Programm nach dem neuen gelernten der Woche verbessern.
  - [ ] -
 
+Heute habe ich..
+Das Prinzip if (dateB < dateA && dateA < dateC) bei Prüfungsdaten ausprobiert. Dann hatte ich erstmals ein Problem mit Datetime und firstdayofthemonth. Aber dann konnte ich das problem erheben in dem ich den string in int convertet habe. Ich habe im internet raus gefunden wie man //Prüfungen in dem Gesuchten monat rausfinden kann mit weniger ifs. Nähmlich mit einer Liste -> foreach und dann if und else if.
  
+
+## nächsten freitag
+- [ ] Das Layout übersichtlicher machen.
+- [ ] Herausfinden wie man die Daten in der Prüfungenliste sortiert.
+- [ ] Eine Liste machen die nach Datum sortierte ausgabe macht.
+- [ ] -
+  
 
