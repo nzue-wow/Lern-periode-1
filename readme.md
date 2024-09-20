@@ -6,6 +6,10 @@
 
 Ich möchte einen Kalender programmieren. In diesem Kalender trage ich meine Hausaufgaben und Termine ein. Der Kalender wird dann eine Meldung schicken  mit einer Liste die alle Aufgaben für den nächsten Tag anzeigt.
 
+## Fertiges Projekt
+
+
+
 ## 23.4.2024
 
 ✍️ Heute habe ich... (50-100 Wörter)
@@ -49,8 +53,11 @@ Das Prinzip if (dateB < dateA && dateA < dateC) bei Prüfungsdaten ausprobiert. 
 
 ## 20.09.2024
 
-- [ ] Herausfinden wie man die Daten in der Prüfungenliste sortiert.
+- [x] Herausfinden wie man die Daten in der Prüfungenliste sortiert.
 - [ ] Eine Liste machen die nach Datum sortierte ausgabe macht.
-- [ ] Das Layout übersichtlicher machen.
+- [x] Das Layout übersichtlicher machen.
+
+Heute habe ich...
+Mein Kalender fertig programmiert. Zuerst habe ich nachgeschaut wie man das layout übersichtlicher machen kann bei der Ausgabe. Man macht es mit Console.WriteLine("-----------"). So wurden alle daten schön von einander getrennt. Nachdem habe ich nachgeschaut wie man eine Datum sortierte ausgabe macht, ich habe da nicht viel gefunden aber auch weil ich mich später für ein besseres Ziel für mein Kalender interessiert habe. Nämlich wie man die Prüfungen mit einer eingabe für immer im Programm speichert, so das ich nicht immer die Test im Programm eingeben muss und alles dazu ändern muss. Es kam etwas mit System.IO;und file und so. Ich habe es ausprobiert und bin zum schluss gekommen das, dass vielleicht noch zu viel ist.
   
 
