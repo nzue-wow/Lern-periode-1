@@ -47,10 +47,10 @@ Heute habe ich..
 Das Prinzip if (dateB < dateA && dateA < dateC) bei Prüfungsdaten ausprobiert. Dann hatte ich erstmals ein Problem mit Datetime und firstdayofthemonth. Aber dann konnte ich das problem erheben in dem ich den string in int convertet habe. Ich habe im internet raus gefunden wie man //Prüfungen in dem Gesuchten monat rausfinden kann mit weniger ifs. Nähmlich mit einer Liste -> foreach und dann if und else if.
  
 
-## nächsten freitag
-- [ ] Das Layout übersichtlicher machen.
+## 20.09.2024
+
 - [ ] Herausfinden wie man die Daten in der Prüfungenliste sortiert.
 - [ ] Eine Liste machen die nach Datum sortierte ausgabe macht.
-- [ ] -
+- [ ] Das Layout übersichtlicher machen.
   
 
