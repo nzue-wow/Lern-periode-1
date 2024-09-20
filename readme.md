@@ -13,10 +13,13 @@ Ich habe ein Prüfungskalender programmiert für die Schule. Man kann dann dort 
 Zuerst musste ich den ersten Tag des Monats und dann den letzten Tag des Monats rausfinden. Nämlich mit: DateTime firstDayOfMonth = new DateTime(year, month, 1); und
 DateTime lastDayOfMonth = firstDayOfMonth.AddMonths(1).AddDays(-1);
 Danach habe ich eine Liste erstellt in den alle Daten gespeichert sind und dann mit foreach und if razsgefunden welche Prüfungen in diesen bestimmten Monaten sind:
+
 //die Daten in einer Liste speichern
+
 DateTime[] Prüfungen = { Prüfung1, Prüfung2, Prüfung3, Prüfung4, Prüfung5, Prüfung6, Prüfung7, Prüfung8};
 
 //Prüfungen in dem Gesuchten monat rausfinden
+
 foreach (DateTime prüfung in Prüfungen)
 
 Am schluss habe ich noch ein übersichtliches Layout gemacht.
