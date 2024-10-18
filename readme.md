@@ -10,8 +10,8 @@ Ich möchte einen Kalender programmieren. In diesem Kalender trage ich meine Hau
 Ich habe ein Prüfungskalender programmiert für die Schule. Man kann dann dort den Monat und das Jahr eingeben und das Programm gibt nur die Prüfungen von diesem Monat aus. Die Prüfungen muss man jedoch am Anfang in das Projekt reinschreiben. Am angfang musste ich lernen wie mit DateTime umzugehen ist. Da habe ich gelernt wie man Daten und Uhrzeiten ausgibt, oder auch wie man Wochentage ausgibt. Ich musste noch recherchieren wie man nur die Bestimmten Prüfungen in einem Zeitraum ausgeben kann. ich haben dann mit hilfe des Internets und herrn Colic eine einfache Version gefunden wie man das macht.
 ![Screenshot 2024-09-20 112059](https://github.com/user-attachments/assets/afd3ea17-c143-4b95-bc08-3c425d529e86)
 
-Zuerst musste ich den ersten Tag des Monats und dann den letzten Tag des Monats rausfinden. Nämlich mit: DateTime firstDayOfMonth = new DateTime(year, month, 1); und
-DateTime lastDayOfMonth = firstDayOfMonth.AddMonths(1).AddDays(-1);
+Zuerst musste ich den ersten Tag des Monats und dann den letzten Tag des Monats rausfinden. Nämlich mit: `DateTime firstDayOfMonth = new DateTime(year, month, 1); und
+DateTime lastDayOfMonth = firstDayOfMonth.AddMonths(1).AddDays(-1);`
 Danach habe ich eine Liste erstellt in den alle Daten gespeichert sind und dann mit foreach und if razsgefunden welche Prüfungen in diesen bestimmten Monaten sind:
 
 //die Daten in einer Liste speichern
