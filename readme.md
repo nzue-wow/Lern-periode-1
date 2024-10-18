@@ -75,5 +75,11 @@ Das Prinzip `if (dateB < dateA && dateA < dateC)` bei Prüfungsdaten ausprobiert
 
 Heute habe ich...
 Mein Kalender fertig programmiert. Zuerst habe ich nachgeschaut wie man das layout übersichtlicher machen kann bei der Ausgabe. Man macht es mit `Console.WriteLine("-----------")`. So wurden alle daten schön von einander getrennt. Nachdem habe ich nachgeschaut wie man eine Datum sortierte ausgabe macht, ich habe da nicht viel gefunden aber auch weil ich mich später für ein besseres Ziel für mein Kalender interessiert habe. Nämlich wie man die Prüfungen mit einer eingabe für immer im Programm speichert, so das ich nicht immer die Test im Programm eingeben muss und alles dazu ändern muss. Es kam etwas mit `System.IO;`und `file` und so. Ich habe es ausprobiert und bin zum schluss gekommen das, dass vielleicht noch zu viel ist.
-  
 
+
+
+## Reflexion
+
+In dieser Lernperionde habe ich viel gelernt. Mit der Programmierung des Prüfungskalender habe ich gelert wie msn DateTime benutzt, ebenfalls habe ich gemerkt wie viele kleine Fehler man machen kann die man dann sucht. Aber dadurch konnte ich mich beim nächsten mal Programmieren verbessern. Ein wichtiger Schritt für mich war zu lernen, wie man große Aufgaben in kleinere, einfachere Teile aufteilt. Zum Beispiel musste ich herausfinden, wie man nur die Prüfungen eines bestimmten Monats anzeigt. Dafür habe ich mit If-Bedingungen und Schleifen gearbeitet. Ich habe gemerkt, dass ich oft durch Ausprobieren und Hilfe von den anderen, dem Lehrer oder dem Internet die besten Lösungen finde. 
+Ich habe auch gelernt, wie wichtig Geduld und Durchhalten beim Programmieren sind. Manchmal gab es schwierige Aufgaben, wie die Prüfungen nach Datum zu sortieren oder die Daten dauerhaft zu speichern. Diese Aufgaben haben mir gezeigt, dass man nicht immer direkt die beste Lösung findet. Man muss oft verschiedene Sachen ausprobieren, bevor es funktioniert.
+In dieser Lernzeit habe ich nicht nur Programmieren gelernt, sondern auch, das es wichtig ist, gut zu planen und über das was ich gelernt/gemacht habe nachzudenken. 
